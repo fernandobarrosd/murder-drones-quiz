@@ -1,0 +1,124 @@
+{
+    "quesions": [
+        {
+            "title": "Qual o trio principal de Drones de Desmonte?",
+            "level": "easy",
+            "image": null,
+            "answers": [
+                {
+                    "id": 1,
+                    "value": "Uzi, N, V"
+                },
+                {
+                    "id": 2,
+                    "value": "J, Doll, Uzi"
+                },
+                {
+                    "id": 3,
+                    "value": "N, J, V"
+                },
+                {
+                    "id": 4,
+                    "value": "Uzi, V, J"
+                }
+            ],
+            "correctAnswerId": 3
+        },
+        {
+            "title": "Qual o principal vilão de Murder Drones?",
+            "level": "easy",
+            "image": "src/assets/images/question-2-image.jpg",
+            "answers": [
+                {
+                    "id": 1,
+                    "value": "Doll"
+                },
+                {
+                    "id": 2,
+                    "value": "J"
+                },
+                {
+                    "id": 3,
+                    "value": "Cyn"
+                },
+                {
+                    "id": 4,
+                    "value": "Alice"
+                }
+            ],
+            "correctAnswerId": 3
+        },
+        {
+            "title": "Qual o nome completo do pai da Uzi?",
+            "level": "medium",
+            "image": "src/assets/images/question-3-image.jpg",
+            "answers": [
+                {
+                    "id": 1,
+                    "value": "Khan"
+                },
+                {
+                    "id": 2,
+                    "value": "Khan Doorman"
+                },
+                {
+                    "id": 3,
+                    "value": "Khan Man"
+                },
+                {
+                    "id": 4,
+                    "value": "Khan Door"
+                }
+            ],
+            "correctAnswerId": 2
+        },
+        {
+            "title": "Qual o nome da empresa responsavel pelos acontecimentos da série?",
+            "level": "medium",
+            "image": null,
+            "answers": [
+                {
+                    "id": 1,
+                    "value": "Drones Company"
+                },
+                {
+                    "id": 2,
+                    "value": "JC Jenson"
+                },
+                {
+                    "id": 3,
+                    "value": "Robotic"
+                },
+                {
+                    "id": 4,
+                    "value": "Mecha Company"
+                }
+            ],
+            "correctAnswerId": 2
+        },
+        {
+            "title": "Qual o nome dessa personagem que é morta no episódio 4?",
+            "level": "hard",
+            "image": "src/assets/images/question-5-image.jpg",
+            "answers": [
+                {
+                    "id": 1,
+                    "value": "Emily"
+                },
+                {
+                    "id": 2,
+                    "value": "Emilia"
+                },
+                {
+                    "id": 3,
+                    "value": "Emilie"
+                },
+                {
+                    "id": 4,
+                    "value": "Emili"
+                }
+            ],
+            "correctAnswerId": 1
+        }
+    ]
+}
